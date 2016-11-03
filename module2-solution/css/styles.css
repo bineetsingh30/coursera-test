@@ -21,7 +21,7 @@ section > div{
 #heading1, #heading2, #heading3{
 	border-left: 2px solid black;
 	border-bottom: 2px solid black;
-	width: 80px; 
+	width: 90px; 
 	text-align: center;
 	float: right;
 	font-size: 125%;
@@ -29,7 +29,7 @@ section > div{
 }
 
 p{
-	margin: 30px 10px 10px 10px;
+	margin: 40px 10px 10px 10px;
 
 }
 

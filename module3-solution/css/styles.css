@@ -1,0 +1,71 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-size: 16px;
+	color: #000000;
+	font-family: 'Oxygen', sans-serif; 
+}
+
+
+#header-nav{
+	background-color: #85929E;
+	border-radius: 0;
+	border: 2px solid black;
+}
+
+.navbar-brand{
+	height: 75px;
+	margin: 0;
+}
+
+.navbar-brand h1{
+	color: #000000;
+	font-weight: bold;
+	/*font-size: 1.2em*/;
+	margin: 0;
+}
+
+#nav-list{
+	text-align: center;
+	marker-top: 10px; 
+	padding: 0;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#nav-list li{
+	font-size: 1.2em;
+	margin-left: -15px;
+	margin-right: -15px;
+	border-bottom: 2px solid #000000;
+}
+#nav-list #sushi{
+	border-bottom:0;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #000000;
+}
+#heading-menu{
+	font-weight: bold;
+	font-size: 2em;
+}
+.menu-item{
+	background-color: #85929E;
+	margin: 10px;
+}
+.menu-item h3{
+	padding: 15px 0 0 15px ;
+	font-weight: bold;
+	text-align: center;
+
+}
+.menu-item p{
+	padding: 0 15px 15px 15px;
+}
+ul.navbar-nav{
+	margin: 0;
+}
+

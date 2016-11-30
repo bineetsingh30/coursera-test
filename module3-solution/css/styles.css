@@ -45,6 +45,9 @@ body{
 #nav-list #sushi{
 	border-bottom:0;
 }
+#chicken{
+	border-top:2px solid #000000;
+}
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
 	border: 1px solid #000000;
 }
@@ -69,3 +72,8 @@ ul.navbar-nav{
 	margin: 0;
 }
 
+.navbar-default div.navbar-collapse
+{
+    border-top:none;
+    box-shadow:none;
+}

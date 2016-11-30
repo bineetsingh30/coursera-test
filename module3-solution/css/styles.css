@@ -9,7 +9,7 @@ body{
 
 
 #header-nav{
-	background-color: #85929E;
+	background-color: #8d8d8e;
 	border-radius: 0;
 	border: 2px solid black;
 }
@@ -56,7 +56,7 @@ body{
 	font-size: 2em;
 }
 .menu-item{
-	background-color: #85929E;
+	background-color: #8d8d8e;
 	margin: 5px;
 }
 .menu-item h3{
